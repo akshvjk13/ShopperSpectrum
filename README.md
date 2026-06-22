@@ -165,19 +165,3 @@ streamlit run app.py
 
 ---
 
-## 📷 Screenshots
-
-(Add screenshots of your Streamlit app here)
-
----
-
-## 👩‍💻 Developed By
-
-**Akshitha Chunchu**
-
-Third Year Computer Engineering Student  
-Thakur College of Engineering and Technology (TCET)
-
----
-
-## ⭐ If you found this project useful, consider giving it a star!
