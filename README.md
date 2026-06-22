@@ -2,11 +2,6 @@
 
 An end-to-end Machine Learning project that combines **Customer Segmentation using RFM Analysis and K-Means Clustering** with a **Product Recommendation System based on Collaborative Filtering**.
 
-## 🚀 Live Demo
-
-🔗 Streamlit App: YOUR_STREAMLIT_LINK_HERE
-
----
 
 ## 📌 Project Overview
 
